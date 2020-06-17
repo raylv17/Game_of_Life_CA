@@ -31,7 +31,7 @@ under numerical_grid.py are 3 main functions:
 Since the graphical_grid.py generates an image sequence of .png files for each frame. These images can be used to create a video file using ffmpeg, the `code ffmpeg.txt` file is provided with the code that can be used through command line (cmd) to generate a video file.
 
 
-### MATPLOTLIB
+### Why Use Matplotlib?
 The benefits of using matplotlib in this case is mostly subjected but nevertheless needs to be mentioned:
 1) Better performance: since the program doesn't need generate cells one square at a time.
 2) The code is much simpler and smaller.
