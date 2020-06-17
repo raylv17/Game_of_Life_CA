@@ -1,0 +1,1 @@
+ffmpeg -r 12 -i frame%03d.png -q:v 0 video_name.avi
