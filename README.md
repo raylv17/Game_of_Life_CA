@@ -1,4 +1,4 @@
-# Cellular_Automata_MatNumba
+# Cellular Automata MatNumba
 Cellular_Automation using the same numerical computation from the original Cellular_Automata, but the graphical representation is done using Matplotlib and savefig function for more flexibility, simpler code, and better performance. Numba is also implemented in numerical_grid file 
 
 #### There are two main files:
