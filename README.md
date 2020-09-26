@@ -40,8 +40,12 @@ The benefits of using matplotlib in this case is mostly subjective but neverthel
 4) The image quality of each frame can also be changed inside the matplotlib's `plt.savefig` function. 
   
   
-### Sample Video:
+### Sample Video (Game Of Life):
 [![Video](http://img.youtube.com/vi/5nV34VjGowg/0.jpg)](http://www.youtube.com/watch?v=5nV34VjGowg "Video Link [Game Of Life]")
+
+
+### Sample Video (Different Rules):
+[![Video](http://img.youtube.com/vi/ShfjuoqGClM/0.jpg)](https://www.youtube.com/watch?v=ShfjuoqGClM "Video Link [Different Rules]")
 
 Description:
 - 500x500 cells
