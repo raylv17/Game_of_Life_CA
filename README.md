@@ -43,15 +43,15 @@ The benefits of using matplotlib in this case is mostly subjective but neverthel
 ### Sample Video (Game Of Life):
 [![Video](http://img.youtube.com/vi/5nV34VjGowg/0.jpg)](http://www.youtube.com/watch?v=5nV34VjGowg "Video Link [Game Of Life]")
 
-
-### Sample Video (Different Rules):
-[![Video](http://img.youtube.com/vi/ShfjuoqGClM/0.jpg)](https://www.youtube.com/watch?v=ShfjuoqGClM "Video Link [Different Rules]")
-
 Description:
 - 500x500 cells
 - 30 frames per second
 - Initial Grid = Random
 - Rules = Game Of Life
+
+### Sample Video (Different Rules):
+[![Video](http://img.youtube.com/vi/ShfjuoqGClM/0.jpg)](https://www.youtube.com/watch?v=ShfjuoqGClM "Video Link [Different Rules]")
+
 
 ### Future Plans
 - Planning to make a GUI of the project using Tkinter
