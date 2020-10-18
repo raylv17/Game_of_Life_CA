@@ -52,3 +52,8 @@ Description:
 - 30 frames per second
 - Initial Grid = Random
 - Rules = Game Of Life
+
+### Future Plans
+- Planning to make a GUI of the project using Tkinter
+-- To select default initial grids, summation methods, and rules
+- A Feature to include a customized initial grid using mouse! (May have to implement other libraries such as Pygame)
