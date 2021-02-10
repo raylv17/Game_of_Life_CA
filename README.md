@@ -55,5 +55,5 @@ Description:
 
 ### Future Plans
 - Planning to make a GUI of the project using Tkinter
-  - To select default initial grids, summation methods, and rules
+  - With options for the user to select default initial grids, summation methods, and rules
 - A Feature to include a customized initial grid using mouse! (May have to implement other libraries such as Pygame)
