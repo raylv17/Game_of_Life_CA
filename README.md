@@ -5,7 +5,7 @@ Cellular Automation using the same numerical computation from the original Cellu
 - numerical_grid.py
 - graphical_grid.py
 
-- 'Examples' includes a videos of Conway's Game of Life and Accumulation. (For Generating Videos go to subheading 'FFMPEG')
+- 'Examples' includes videos of Conway's Game of Life and Accumulation. (For Generating Videos go to subheading 'FFMPEG')
 
 numerical_grid generates a square matrix of 1s and 0s and returns it to graphical_grid. The arrangement of 1s and 0s is determined by the methods used inside numerical_grid.py.
 
